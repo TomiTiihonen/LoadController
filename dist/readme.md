@@ -8,7 +8,7 @@ To get started you need to:
 3. Create new empty directory e.g. load-controller
 4. Save jar file into this directory
 5. Extract the contents of gatling archive into load-controller directory
-6. In terminal run `java -jar load-controller-1.3.2.2.jar server`
+6. In terminal run `java -jar load-controller-1.3.2.3.jar server`
 7. In browser (LoadController has only been tested with Chrome browser) open http://localhost:8080
 
 Note: After installation the directory structure should be something like this:
@@ -19,7 +19,7 @@ Note: After installation the directory structure should be something like this:
 │   ├── ...
 ├── scenarios
 │   ├── ...
-├── load-controller-1.3.2.2.jar
+├── load-controller-1.3.2.3.jar
 ```
 ## Bugs and Feedback
 If you find a bug or have feedback on usability or suggestions, please raise at https://github.com/TomiTiihonen/LoadController/issues
